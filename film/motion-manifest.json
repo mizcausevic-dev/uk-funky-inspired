@@ -1,0 +1,26 @@
+{
+  "title": "UK Funky-Inspired",
+  "study": "uf01",
+  "bpm": 128,
+  "source_audio": "preview/uk-funky-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "1f3edfabf3b5d7bf178401749a2fa606faf123e5b1b3de17853befb913bf6223",
+  "source_midi": "midi/uf01-arc-light/uf01-arc-light-combined.mid",
+  "source_midi_sha256": "d824a99d5086dc5499246dc2e162fe5ad6658211649e023e7a3430957d04679b",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "a5bc0a9b4600a449f62ce7eca635b7d6eea7317d7a161c251c6b26f88ca4d9ff",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "8b9efadbd2cd630c718d4d425e4550737cbfb9b952eb9e4bbe03bed9d919d8b6",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "7c14ea79f16895d7c1cc5c70912e077207b1276eb90b146aeb14122be889c10c",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
