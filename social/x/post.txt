@@ -1,0 +1,3 @@
+DRAFT: UK Funky-Inspired Studies is a four-study original MIDI release at 128 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 141 characters using Python len
