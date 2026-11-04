@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3141,
+      "sha256": "74fedadb76afa28adc62f60699ef36026e7e9353566e450e882317bf1bbbf67d"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1598,
-      "sha256": "10ac95484dfff220f4e954b82e98f32675638f2fb145287bbbbe2b9d4a838283"
+      "bytes": 1820,
+      "sha256": "19d726cd1a97a19088949e796e12e3329a5d2c63332be833ea80979439204b4c"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/uk-funky-inspired-midi.zip",
-      "bytes": 34804,
-      "sha256": "6f61d5e27f8465976884e6a56a976b83d3da6b8a515a574805371629feb54860"
+      "bytes": 36353,
+      "sha256": "a590611c798529ce505959cb77cba142c53c9647d17d777188534bc720ec7aa5"
     },
     {
       "path": "index.html",
@@ -228,18 +238,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1041,
-      "sha256": "a9a21bcb001b8612ec15c5e78785025d1da6e71a62e5ce1d546e536cefd577c7"
+      "bytes": 1124,
+      "sha256": "af2bf41e89a2d3d4c70c4b422bc526b900d4e70ede644e96209fcde8a08820e4"
     },
     {
       "path": "preview/uk-funky-inspired-simple-synth-preview.mp3",
       "bytes": 1453915,
       "sha256": "1f3edfabf3b5d7bf178401749a2fa606faf123e5b1b3de17853befb913bf6223"
-    },
-    {
-      "path": "README.md",
-      "bytes": 2980,
-      "sha256": "6247d41b4b900803e91e508bd0bd25a0e723526210a135c07fb1d59339828903"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47235,
-      "sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5"
+      "bytes": 47412,
+      "sha256": "a3156f76517f4653a5a51ed4786dbc3390adf3b976691399e2d7b2570f69e54f"
     },
     {
       "path": "tools/validate_release.py",
