@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:38.857357+00:00",
+  "run_time_utc": "2026-11-06T11:28:29.878811+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,8 +26,8 @@
     },
     {
       "path": "midi/uf01-arc-light/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "ba32f0bea442e656fc2ceb32c7486fab6bd5c8aa2cafd6eb37e7564f1a0ef526",
+      "bytes": 923,
+      "sha256": "26c00034a4611abd36236dcd73df404e8a19948c01b735ae960173de3b76e76b",
       "errors": []
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "path": "midi/uf01-arc-light/uf01-arc-light-combined.mid",
-      "bytes": 8395,
-      "sha256": "d824a99d5086dc5499246dc2e162fe5ad6658211649e023e7a3430957d04679b",
+      "bytes": 7685,
+      "sha256": "0748d6915b5b191f7f06bd5c52d1443e99ae304bda18619fc49cb812145621da",
       "errors": []
     },
     {
@@ -68,8 +68,8 @@
     },
     {
       "path": "midi/uf02-centre-step/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "8e6cef879896980f3b305d0db2d084dc361ca7fdabc4dce294a5b07f7aa02d54",
+      "bytes": 924,
+      "sha256": "5f2f202fa76eda68cb9512cd10d02d2f704c92bf560af0fc71cf92148a690830",
       "errors": []
     },
     {
@@ -80,8 +80,8 @@
     },
     {
       "path": "midi/uf02-centre-step/uf02-centre-step-combined.mid",
-      "bytes": 8394,
-      "sha256": "c298f80196fd725ce44f5fb73a99cde43b73c7098745ff5a513c3908b7a76881",
+      "bytes": 7686,
+      "sha256": "b7ccb54e576255cccc8e6bbdbe684dd6e9ae1785746bdee9558e2efed20ef0eb",
       "errors": []
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "path": "midi/uf03-loose-thread/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "ee267b16987d09580a7cbad55d4f67868d0116c4eb24ea8f94bb5609fdc28611",
+      "bytes": 922,
+      "sha256": "7e8b4ea26a121912541bd046968b80954050196cedc1fc507f0381076c689168",
       "errors": []
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "path": "midi/uf03-loose-thread/uf03-loose-thread-combined.mid",
-      "bytes": 8394,
-      "sha256": "d9d2af14ffcf817fc31a400db6fd222b031186ca216511ddad94e7faf9d66a71",
+      "bytes": 7684,
+      "sha256": "6bbaa8ecf18dde5fdea594a8ac1e0006e3e9502e13aa8534579b78ad3da62968",
       "errors": []
     },
     {
@@ -152,8 +152,8 @@
     },
     {
       "path": "midi/uf04-seven-return/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "cd203b94af08998cfd07b70a675b67b462c93c5762ab6b2d2a948d7f6d5bbbfe",
+      "bytes": 924,
+      "sha256": "12441a54c714816c495b14c02e1207eedc928e7006191408367f18bbca2c7ac8",
       "errors": []
     },
     {
@@ -164,8 +164,8 @@
     },
     {
       "path": "midi/uf04-seven-return/uf04-seven-return-combined.mid",
-      "bytes": 8395,
-      "sha256": "afff134b30830df103cc8a9af3a9963fd6f1e6d16abf23d8335716b60e313f5b",
+      "bytes": 7686,
+      "sha256": "b0d1fcd7e0b83857fbbd3d8e5045ecec2b36e04335dffadeeb8333da2cc73549",
       "errors": []
     },
     {

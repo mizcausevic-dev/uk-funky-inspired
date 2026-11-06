@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/uk-funky-inspired-simple-synth-preview.mp3",
-  "preview_sha256": "1f3edfabf3b5d7bf178401749a2fa606faf123e5b1b3de17853befb913bf6223",
+  "preview_sha256": "467a6f5a6b0d83c3a6973cad870974b70de53729bdce41e255986a93181c2013",
   "source_midi_path": "midi/uf01-arc-light/uf01-arc-light-combined.mid",
-  "source_midi_sha256": "d824a99d5086dc5499246dc2e162fe5ad6658211649e023e7a3430957d04679b",
+  "source_midi_sha256": "0748d6915b5b191f7f06bd5c52d1443e99ae304bda18619fc49cb812145621da",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 60.0
   },
   "measurement": {
-    "sample_peak": 0.177665,
+    "sample_peak": 0.170627,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
