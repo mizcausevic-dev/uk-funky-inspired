@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/uk-funky-inspired-midi.zip",
-      "bytes": 33241,
-      "sha256": "a6cca7532f9ecc354bce39c4d8b4386907c47833d3954feb4f61aaa15d5c02bc"
+      "bytes": 35856,
+      "sha256": "7aa1bef1a2b234d573218ba96066ad85e7a7e237ca16111f10f85b9923bb074f"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10224,
-      "sha256": "2f8bc28eae2a1cf58aa95771fc3a9941d1ff793e86c459cda4cb668bc193e3b7"
+      "bytes": 10414,
+      "sha256": "f9ebec9bb99baf5fe212fc8389a8ee525e994bdcda1bb7bde03830ec0654e0cf"
     },
     {
       "path": "midi/uf01-arc-light/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "b01c7365af3d513edcf87c62019bc8aca08e6da1381aebec7196f94aa3d27031"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 788,
       "sha256": "be9e51f34e12b81117ade0174a872e44fa8c1701333b5a85d6e4b63d257b3b24"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3359,
-      "sha256": "f76e1e9d7c05923199b3d29d637eae3557101402e516c3ffc77faa76f646f344"
+      "bytes": 3474,
+      "sha256": "b5ed6e349c1d00b5b6cce54a36816e13ea7a44823da62e883e0a5eecd241e9a4"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
